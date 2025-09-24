@@ -1,0 +1,62 @@
+# OpenHands M1/M2 Setup - Private Data Protection
+
+# Log files and runtime data
+*.log
+*.pid
+openhands.log
+openhands.pid
+
+# Temporary files
+*.tmp
+*.temp
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment files (may contain secrets)
+.env
+.openhands_env
+*_env
+*.env.local
+*.env.production
+
+# Personal configuration files
+config.local.*
+secrets.*
+tokens.*
+
+# Docker volumes and data (keep private)
+data/
+volumes/
+.openhands/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Personal notes and docs (if any)
+NOTES.md
+personal-*
+private-*
+
+# Image development files (keep these for contributors)
+# IMAGE_CONCEPT.md  # Now included in repo
+# HERO_IMAGE_GUIDE.md  # Now included in repo
+concept-sketches/
+*.sketch
+*.fig
+*.psd
